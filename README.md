@@ -1,9 +1,9 @@
-# Finance Dashboard - Power BI
+## Finance Dashboard - Power BI
 
 This repository contains a Power BI dashboard built using financial loan datasets. It provides visual insights into loan issuance, customer credit behavior, and payment patterns.
 
 ---
-# Files Included
+## Files Included
 
 Finance_1 (1).xlsx`: Contains loan application details like loan amount, interest rate, grade, and purpose.
 Finance_2.xlsx`: Contains credit and repayment details such as revolving balance, total payment, and delinquencies.
